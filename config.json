@@ -1,0 +1,5 @@
+{
+  "prefix" : "Server-prefix",
+  "token" : "Bot auth token",
+  "ModLogs" : "Location for moderation logs"
+}
