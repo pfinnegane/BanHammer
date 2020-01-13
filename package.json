@@ -1,0 +1,18 @@
+{
+  "name": "banhammer",
+  "version": "1.0.0",
+  "description": "The ultimate bot for the ultimate servers to ban the worst users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "discordjs"
+  ],
+  "author": "Sempitaernal",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
